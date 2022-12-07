@@ -4,14 +4,16 @@
     flex-direction: column;
   }
   
+.head-text{
+  padding-bottom: 2rem;
+}
+  
   .app__work-filter {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
     flex-wrap: wrap;
-  
-    margin: 4rem 0 2rem;
   
     .app__work-filter-item {
       padding: 0.5rem 1rem;
